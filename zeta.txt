@@ -1,0 +1,5 @@
+Zeta
+
+Jag sökte utbildningen eftersom jag är intresserad av IT och programmering och vill utveckla mina kunskaper inom området.
+
+Ett Git-kommando jag redan tycker är användbart är git status, eftersom det visar vilka ändringar som har gjorts i projektet och vad som är redo att committas.
