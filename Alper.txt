@@ -1,3 +1,5 @@
 Mitt namn är Alper.
+
  Jag sökte denna utbildningen för att jag egentligen inte visste vad jag ville plugga till men jag visste att jag ville plugga. Det locka mitt intresse och kände att det var något jag inte skulle bli uttråkad. 
+
 Ett git kommando jag tycker är använbart är git commit, man kan lägga sina kommentarer så att alla vet vad du har ändrat. Jag tycker det är smidigt för att man inte behöver fråga hela tiden. 
