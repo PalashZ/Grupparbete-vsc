@@ -1,0 +1,6 @@
+Jag heter Arian Amirian jag är en ung själ som brinner för musik och att leva dag för dag.
+
+Jag sökte utbildningen eftersom att jag gillar problemlösningar allt från vardagsproblem till teknologiska problem. 
+Just nu att allt är svårt men det ser jag som en utmaning och som en problemlösare så behöver man bli utmanad för att utvecklas.
+
+git clone <url> är en viktig git command eftersom det är bra för att clona en repo.
