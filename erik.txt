@@ -1,0 +1,3 @@
+Erik Murch
+Sökte till utbildningen för jag var sugen på något nytt och denna utbildningen fångade mitt intresse..
+Finns många bra commands t.ex git add ., git commit, git push etc.
